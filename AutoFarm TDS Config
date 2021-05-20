@@ -1,4 +1,5 @@
 --https://discord.gg/mhrfWUCgwc
-warn("Script is on my site now! Get latest script from my discord server : https://discord.gg/mhrfWUCgwc")
-warn("You can get the link on this site (open link from loadstring)")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/sjkdkjlfdjnnmklcvxjNotifCr"))()
+say("You have outdated link!","Script is on my site now! Get latest script from my discord server : https://discord.gg/mhrfWUCgwc")
+say("You have outdated link!","You can get the link on this site (open link from loadstring)")
 --https://discord.gg/mhrfWUCgwc
